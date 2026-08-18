@@ -60,7 +60,8 @@ Essa experiência também contribui para minha forma de pensar e resolver proble
 ## 📫 Contato
 
 <p align="left">
-  <a href="www.linkedin.com/in/beatriz-sousa-carvalho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/beatriz-sousa-carvalho">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
