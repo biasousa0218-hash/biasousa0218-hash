@@ -1,31 +1,72 @@
 # 👋 Olá, eu sou Beatriz!
 
-🎓 Estudante de **Engenharia de Software**, atualmente desenvolvendo meus conhecimentos em programação e tecnologia.
+🎓 Estudante de **Engenharia de Software** e apaixonado por tecnologia, programação e aprendizado contínuo.
 
-💻 Tenho conhecimentos em **Python** e **C**, e estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades.
+💻 Atualmente, estou desenvolvendo minhas habilidades em **Python** e **C**, com foco em fundamentos de programação, lógica e desenvolvimento de projetos.
 
-📈 Também possuo experiência com **Marketing Digital**, área que me trouxe conhecimentos em estratégia, criatividade e comunicação.
+📈 Também tenho experiência com **Marketing Digital**, área que contribuiu para minha visão estratégica, criatividade e capacidade de comunicação.
 
-🚀 Estou construindo minha jornada na área de tecnologia e utilizando este GitHub para compartilhar meus estudos, projetos e evolução.
+🚀 Meu objetivo é evoluir constantemente como desenvolvedor, transformar conhecimento em projetos e construir uma carreira sólida na área de tecnologia.
+
+---
 
 ## 🛠️ Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/Marketing%20Digital-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Marketing Digital"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
+
+---
 
 ## 📚 Atualmente estudando
 
-* 💻 Engenharia de Software
+* 🎓 Engenharia de Software
 * 🐍 Python
 * ⚙️ Linguagem C
-* 🌐 Desenvolvimento de projetos
-* 📈 Marketing Digital
+* 🧠 Lógica de Programação
+* 🔧 Desenvolvimento de projetos
+* 🌱 Boas práticas de desenvolvimento
 
-## 🚀 Objetivo
+---
 
-Continuar aprendendo, desenvolver projetos e evoluir constantemente como profissional da área de tecnologia.
+## 💼 Experiência
 
-> **"Aprendendo, construindo e evoluindo um pouco todos os dias."**
+### 📈 Marketing Digital
+
+Experiência com Marketing Digital, desenvolvendo conhecimentos em:
+
+* Estratégia e planejamento
+* Comunicação
+* Criatividade
+* Análise de resultados
+* Projetos digitais
+
+Essa experiência também contribui para minha forma de pensar e resolver problemas na área de tecnologia.
+
+---
+
+## 📊 GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biasousa0218-hash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biasousa0218-hash&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 🌱 Em constante evolução
+
+**Aprendendo → Praticando → Construindo → Evoluindo.**
