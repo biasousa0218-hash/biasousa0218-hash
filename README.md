@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Beatriz!
 
-🎓 Estudante de **Engenharia de Software** e apaixonado por tecnologia, programação e aprendizado contínuo.
+🎓 Estudante de **Engenharia de Software** e apaixonada por tecnologia, programação e aprendizado contínuo.
 
-💻 Atualmente, estou desenvolvendo minhas habilidades em **Python** e **C**, com foco em fundamentos de programação, lógica e desenvolvimento de projetos.
+💻 Atualmente, estou desenvolvendo minhas habilidades em **Python**, **C** e **MySQL**, com foco em fundamentos de programação, lógica, banco de dados e desenvolvimento de projetos.
 
 📈 Também tenho experiência com **Marketing Digital**, área que contribuiu para minha visão estratégica, criatividade e capacidade de comunicação.
 
@@ -13,24 +13,24 @@
 ## 🛠️ Tecnologias
 
 <p align="left">
- [ [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src=
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    </p>
+</p>
 
 ---
 
 ## 📚 Atualmente estudando
 
-* 🎓 Engenharia de Software
-* 🐍 Python
-* ⚙️ Linguagem C
-* 🧠 Lógica de Programação
-* 🔧 Desenvolvimento de projetos
-* 🌱 Boas práticas de desenvolvimento
+- 🎓 Engenharia de Software
+- 🐍 Python
+- ⚙️ Linguagem C
+- 🗄️ MySQL & Bancos de Dados
+- 🧠 Lógica de Programação
+- 🔧 Desenvolvimento de projetos
+- 🌱 Boas práticas de desenvolvimento
 
 ---
 
@@ -40,11 +40,11 @@
 
 Experiência com Marketing Digital, desenvolvendo conhecimentos em:
 
-* Estratégia e planejamento
-* Comunicação
-* Criatividade
-* Análise de resultados
-* Projetos digitais
+- Estratégia e planejamento
+- Comunicação
+- Criatividade
+- Análise de resultados
+- Projetos digitais
 
 Essa experiência também contribui para minha forma de pensar e resolver problemas na área de tecnologia.
 
