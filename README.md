@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software** e apaixonada por tecnologia, programação e aprendizado contínuo.
 
-💻 Atualmente, estou desenvolvendo minhas habilidades em **Python**, **C** e **MySQL**, com foco em fundamentos de programação, lógica, banco de dados e desenvolvimento de projetos.
+💻 Atualmente, estou desenvolvendo minhas habilidades em **Python**, **C**, **MySQL**, **HTML** e **CSS**, com foco em fundamentos de programação, lógica, desenvolvimento web e criação de projetos.
 
 📈 Também tenho experiência com **Marketing Digital**, área que contribuiu para minha visão estratégica, criatividade e capacidade de comunicação.
 
@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
@@ -28,6 +30,7 @@
 - 🐍 Python
 - ⚙️ Linguagem C
 - 🗄️ MySQL & Bancos de Dados
+- 🌐 HTML & CSS (Desenvolvimento Web)
 - 🧠 Lógica de Programação
 - 🔧 Desenvolvimento de projetos
 - 🌱 Boas práticas de desenvolvimento
